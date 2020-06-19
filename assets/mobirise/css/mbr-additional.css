@@ -2504,7 +2504,7 @@ section.lazy-placeholder:after {
 }
 .cid-s1OeLxtFX9 {
   padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-s1OeLxtFX9 p {
@@ -2528,6 +2528,67 @@ section.lazy-placeholder:after {
 }
 .cid-s1OeLxtFX9 .item-content {
   padding-top: 2rem;
+}
+.cid-s2m3WD8iFU {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-s2m3WD8iFU .media-container-column {
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-s2m3WD8iFU .mbr-author-desc {
+  display: block;
+}
+.cid-s2m3WD8iFU .mbr-testimonial {
+  flex-basis: auto;
+  margin-top: 5rem;
+  -webkit-flex-basis: auto;
+}
+.cid-s2m3WD8iFU .mbr-testimonial .panel-item {
+  background-color: #ffffff;
+}
+.cid-s2m3WD8iFU .mbr-testimonial .card-block {
+  -webkit-flex-grow: 0;
+  flex-grow: 0;
+  padding: 2rem;
+}
+.cid-s2m3WD8iFU .mbr-testimonial .card-block .testimonial-photo {
+  margin-top: -5rem;
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1.6rem;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.cid-s2m3WD8iFU .mbr-testimonial .card-block .testimonial-photo img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-s2m3WD8iFU .mbr-testimonial .card-block p {
+  margin: 0;
+}
+.cid-s2m3WD8iFU .mbr-testimonial .card-footer {
+  padding: 0 2rem 2rem 2rem;
+  border-top: 0;
+  word-wrap: break-word;
+  word-break: break-word;
+  background: none;
+}
+@media (max-width: 260px) {
+  .cid-s2m3WD8iFU .testimonial-photo {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+.cid-s2m3WD8iFU .mbr-text {
+  color: #767676;
+}
+.cid-s2m3WD8iFU .mbr-author-name {
+  color: #232323;
 }
 .cid-s1Oje6PFzY {
   padding-top: 45px;
@@ -4646,6 +4707,33 @@ section.lazy-placeholder:after {
 .cid-s1URVXJK9K .mbr-text,
 .cid-s1URVXJK9K blockquote {
   color: #767676;
+}
+.cid-s2m7wLxBUu {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #465052;
+}
+.cid-s2m7wLxBUu .testimonial-text {
+  font-style: italic;
+  font-weight: 300;
+}
+.cid-s2m7wLxBUu .mbr-author-name {
+  font-weight: bold;
+}
+.cid-s2m7wLxBUu .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+}
+@media (max-width: 991px) {
+  .cid-s2m7wLxBUu .mbr-figure,
+  .cid-s2m7wLxBUu img {
+    max-height: 300px;
+    width: auto;
+    margin: auto;
+  }
+  .cid-s2m7wLxBUu .media-content {
+    padding-top: 1.5rem !important;
+  }
 }
 .cid-s1UWWxQbNd {
   padding-top: 45px;
