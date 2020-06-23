@@ -325,7 +325,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
+                "customStyle1": "display-2",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "alt": "",
@@ -333,7 +333,7 @@
                 "textTitle": "Welcome<br>",
                 "overlay": false,
                 "contentAlign": "center",
-                "text": "<b><br></b><b>Korusu is home to three creative brands<br>Hot Toast - Interest Sparks - Idea Haven</b>",
+                "text": "<b>Korusu is home to three creative brands</b><br><b>Hot Toast - Interest Sparks - Idea Haven</b><br><b><br></b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"portfolio.html\" data-toolbar=\"-mbrBtnMove\">Brand Portfolio</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"brandstory.html\" data-toolbar=\"-mbrBtnMove\">Brand Story</a>",
                 "overlayOpacity": "0.4",
                 "overlayColor": "#073b4c"
