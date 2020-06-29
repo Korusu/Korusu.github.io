@@ -2868,6 +2868,46 @@ section.lazy-placeholder:after {
 .cid-s3il7hC4ku H2 {
   color: #149dcc;
 }
+.cid-s3iAvdJtA6 {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-s3iAvdJtA6 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-s3iAvdJtA6 .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-s3iAvdJtA6 .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-s3iAvdJtA6 .team-item .item-image img {
+  width: 100%;
+}
+.cid-s3iAvdJtA6 .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-s3iAvdJtA6 .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-s3iAvdJtA6 .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-s3iAvdJtA6 .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-s3iAvdJtA6 .team-item .item-caption {
+  background: #efefef;
+}
 .cid-s1Oje6PFzY {
   padding-top: 45px;
   padding-bottom: 30px;
