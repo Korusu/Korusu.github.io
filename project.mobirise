@@ -298,6 +298,9 @@
             },
             ".mbr-overlay ~ .container-slide": {
               "z-index": "auto"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_name": "slider1",
@@ -337,6 +340,48 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-warning\" data-app-placeholder=\"Type Text\" href=\"portfolio.html\" data-toolbar=\"-mbrBtnMove\">Marketing Communication<br>Portfolio<br></a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-warning\" data-app-placeholder=\"Type Text\" href=\"EUportfolio.html\" data-toolbar=\"-mbrBtnMove\">EU Projects <br>Portfolio<br></a>",
                 "overlayOpacity": "0.4",
                 "overlayColor": "#073b4c"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/christchurch-harbour-1373-x-477-1373x477.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-2",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "alt": "",
+                "title": "",
+                "textTitle": "Marketing Communication\r<div><br></div>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Message crafting \n<br>Visual documents \n<br>Helping you with ideas<br><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-warning\" data-app-placeholder=\"Type Text\" href=\"portfolio.html\" data-toolbar=\"-mbrBtnMove\">Marketing Communication<br>Portfolio<br></a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-warning\" data-app-placeholder=\"Type Text\" href=\"EUportfolio.html\" data-toolbar=\"-mbrBtnMove\">EU Projects <br>Portfolio<br></a>",
+                "overlayOpacity": "0.7",
+                "overlayColor": "#073b4c"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1080x1920.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-2",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "alt": "",
+                "title": "",
+                "textTitle": "EU &nbsp;P r o j e c t &nbsp;Se r v i c e s\r<div>t h r o u g h &nbsp;B o l o g n a , I t a l y</div>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "<br>Multi-sector\n* Market evaluations\n* Marketing campaigns\n* Sales Agency\n<br>in partnership with\nGuidi Consulting\n<br><br>Translations<br> in partnership with\nGaravini Translations<br><b><br></b>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-warning\" data-app-placeholder=\"Type Text\" href=\"portfolio.html\" data-toolbar=\"-mbrBtnMove\">Marketing Communication<br>Portfolio<br></a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-warning\" data-app-placeholder=\"Type Text\" href=\"EUportfolio.html\" data-toolbar=\"-mbrBtnMove\">EU Projects <br>Portfolio<br></a>",
+                "overlayOpacity": "0.6",
+                "overlayColor": "#232323"
               }
             ]
           }
