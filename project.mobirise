@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Korusu",
-    "currentPage": "about.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -378,7 +378,7 @@
                 "textTitle": "<br>EU Projects<br>through Bologna, Italy",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<br>Multi-sector\n* Market evaluations\n* Marketing campaigns\n* Sales Agency\n<br>in partnership with\nGuidi Consulting\n<br><br>Translations<br> in partnership with\nGaravini Translations<br><b><br></b>",
+                "text": "<br>Multi-sector Italy Market Entry * Market evaluations\n* Marketing campaigns\n* Sales Agency\n<br>Multi-sector Italy Buyers-Bridge * Your out-sourced procurement department for Made in Italy quality products<br>in partnership with\nGuidi Consulting\n<br><br>Translations<br> in partnership with\nGaravini Translations<br><b><br></b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-warning\" data-app-placeholder=\"Type Text\" href=\"portfolio.html\" data-toolbar=\"-mbrBtnMove\">Marketing Communication<br>Portfolio<br></a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-warning\" data-app-placeholder=\"Type Text\" href=\"EUportfolio.html\" data-toolbar=\"-mbrBtnMove\">EU Projects <br>Portfolio<br></a>",
                 "overlayOpacity": "0.6",
                 "overlayColor": "#232323"
