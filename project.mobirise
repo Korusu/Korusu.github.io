@@ -48,7 +48,7 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
-    "uniqCompNum": 117,
+    "uniqCompNum": 122,
     "versionPublish": "4.11.4",
     "screenshot": "screenshot.png"
   },
@@ -57,11 +57,11 @@
       "settings": {
         "main": true,
         "title": "Korusu - Imagination can deliver",
-        "meta_descr": "",
+        "meta_descr": "Consulting\n\nMarketing Communication\n*Message crafting *Visual documents *Helping you with ideas\n\nEU Project Services through Bologna, Italy\nMulti-sector * Market evaluations * Marketing campaigns * Sales Agency\nin partnership with Guidi Consulting\n\nTranslations\nin partnership with Garavini Translations\n",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/korusu%20-%20logo%20white%20background-176x176.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/korusu-trees-logo-v2-small-210x155.png"
       },
       "components": [
         {
@@ -322,7 +322,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/imag1758-uyosemde-2000x1485.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -343,7 +343,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/peel-castle-sunset-1080x802.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -1272,9 +1272,9 @@
     },
     "portfolio.html": {
       "settings": {
-        "meta_descr": "Korusu - Korusu Brand Portfolio",
+        "meta_descr": "Marketing Communication\n*Message crafting *Visual documents *Helping you with ideas",
         "title": "Korusu - Marketing Communication Portfolio",
-        "order": 10
+        "order": 9
       },
       "components": [
         {
@@ -1818,9 +1818,10 @@
     },
     "ideahaven.html": {
       "settings": {
-        "meta_descr": "Idea Haven - You can do it",
+        "meta_descr": "BALTIMORE Stories & Activities for children ages 6-8\nFOCUS IN THE WILD Education Resource for children ages 7-11\n\n",
         "title": "Idea Haven - You can do it",
-        "order": 9
+        "order": 8,
+        "meta_image": "@PROJECT_PATH@/assets/images/korusu-trees-logo-v2-small-210x155.png"
       },
       "components": [
         {
@@ -2481,9 +2482,10 @@
     },
     "hottoast.html": {
       "settings": {
-        "meta_descr": "Hot Toast - Creating Smiles",
+        "meta_descr": "Hot Toast - Creating Smiles\n\nBrand Identity Design & Digital Communication",
         "title": "Hot Toast - Creating Smiles",
-        "order": 8
+        "order": 7,
+        "meta_image": "@PROJECT_PATH@/assets/images/korusu-trees-logo-v2-small-210x155.png"
       },
       "components": [
         {
@@ -3397,9 +3399,10 @@
     },
     "interestsparks.html": {
       "settings": {
-        "meta_descr": "Interest Sparks - Conversation Pieces",
+        "meta_descr": "Interest Sparks - Conversation Pieces\n\nWorld Wildlife Art Photography Limited Editions - by Philippe Ricordel",
         "title": "Interest Sparks - Conversation Pieces",
-        "order": 7
+        "order": 6,
+        "meta_image": "@PROJECT_PATH@/assets/images/korusu-trees-logo-v2-small-210x155.png"
       },
       "components": [
         {
@@ -3941,9 +3944,10 @@
     },
     "contact.html": {
       "settings": {
-        "meta_descr": "Contact",
+        "meta_descr": "Contact Chris Swingler chris@korusu.uk +44.7980.915290",
         "title": "Contact",
-        "order": 6
+        "order": 5,
+        "meta_image": "@PROJECT_PATH@/assets/images/korusu-trees-logo-v2-small-210x155.png"
       },
       "components": [
         {
@@ -4435,7 +4439,8 @@
       "settings": {
         "meta_descr": "Korusu brand story",
         "title": "Korusu brand story",
-        "order": 5
+        "order": 4,
+        "meta_image": "@PROJECT_PATH@/assets/images/korusu-trees-logo-v2-small-210x155.png"
       },
       "components": [
         {
@@ -4909,9 +4914,9 @@
     },
     "about.html": {
       "settings": {
-        "meta_descr": "About Chris",
+        "meta_descr": "Chris Swingler - Back Story",
         "title": "About Chris",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -5491,9 +5496,10 @@
     },
     "EUportfolio.html": {
       "settings": {
-        "meta_descr": "Korusu - EU Projects Portfolio",
+        "meta_descr": "EU Project Services through Bologna, Italy\nMulti-sector * Market evaluations * Marketing campaigns * Sales Agency\nin partnership with Guidi Consulting\n\nTranslations\nin partnership with Garavini Translations\n",
         "title": "Korusu - EU Projects Portfolio",
-        "order": 2
+        "order": 2,
+        "meta_image": "@PROJECT_PATH@/assets/images/korusu-trees-logo-v2-small-210x155.png"
       },
       "components": [
         {
