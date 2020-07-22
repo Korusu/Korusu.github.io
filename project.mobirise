@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Korusu",
-    "currentPage": "EUportfolio.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -318,7 +318,7 @@
           "_params": {
             "slides__autoplay": true,
             "slides__autoplayInterval": "8000",
-            "slides__showBullets": false,
+            "slides__showBullets": true,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/imag1758-uyosemde-2000x1485.jpg",
